@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "/home/stark/Documents/GIT/Date-Function"
+		},
+		{
+			"path": "/home/stark/Documents/GIT/Email-Function"
+		},
+		{
+			"path": "/home/stark/Documents/GIT/Mobile-Function"
+		},
+		{
+			"path": "/home/stark/Documents/GIT/Name-Function"
+		},
+		{
+			"path": "/home/stark/Documents/GIT/Password-Function"
+		},
+		{
+			"path": "/home/stark/Documents/GIT/Pincode"
+		},
+		{
+			"path": "/home/stark/Documents/GIT/Telephone-Function"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"fstream": "cpp"
+		}
+	}
+}

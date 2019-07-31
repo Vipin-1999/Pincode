@@ -1,0 +1,8 @@
+[2019-07-31 07:39:15.968] [sharedprocess] [info] main {"machineId":"e4fa7f2174ffe2c4257d67acd3a1ad80cb643399a285f55fc8d2606cad9bcb56"}
+[2019-07-31 07:39:55.963] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-07-31 08:05:10.322] [sharedprocess] [info] Installing extension: grapecity.gc-excelviewer
+[2019-07-31 08:05:13.109] [sharedprocess] [info] Downloaded extension: grapecity.gc-excelviewer /tmp/3e87a19a-85b6-49f6-9e1f-2d7bad178178
+[2019-07-31 08:05:13.674] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.grapecity.gc-excelviewer-2.1.32: grapecity.gc-excelviewer
+[2019-07-31 08:05:13.675] [sharedprocess] [info] Renamed to /root/.vscode/extensions/grapecity.gc-excelviewer-2.1.32
+[2019-07-31 08:05:13.677] [sharedprocess] [info] Installation completed. grapecity.gc-excelviewer
+[2019-07-31 08:05:13.686] [sharedprocess] [info] Extensions installed successfully: grapecity.gc-excelviewer
