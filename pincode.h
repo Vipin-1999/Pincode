@@ -8,7 +8,7 @@
 typedef unsigned long size_t;
 typedef std::vector<std::string> cvector;
 
-#include "nbind/nbind.h"
+// #include "nbind/nbind.h"
 
 class Pincode       {
     public:
@@ -24,7 +24,7 @@ class Pincode       {
 
 #endif 
 
- NBIND_CLASS(Pincode){
+/* NBIND_CLASS(Pincode){
     construct<>();
     multimethod(Validate, args(std::string), "Validate");
     multimethod(Validate, args(std::string, std::string), "ValidateWithAreaCode");
@@ -33,4 +33,4 @@ class Pincode       {
     method(Ccode);
     method(Generate);
     method(Generate_Invalid);
-}
+} */

@@ -7,7 +7,7 @@ void Pincode :: Ccode()      {
     std::string temp;
     ifstream in;
 	in.open("code.txt");
-    for (auto col = 0; col < 155600; col++) {
+    for (auto col = 0; col < 155601; col++) {
         in >> temp;
         codes.push_back(temp);
     }
