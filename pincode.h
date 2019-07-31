@@ -10,7 +10,7 @@ typedef std::vector<std::string> cvector;
 
 //#include "nbind/nbind.h"
 
-class Pincode{
+class Pincode       {
     public:
     void Ccode();
     bool Validate(std::string);
@@ -30,6 +30,7 @@ class Pincode{
     multimethod(Validate, args(std::string, std::string), "ValidateWithAreaCode");
     multimethod(Random, args(bool), "Random");
     multimethod(Random, args(bool, std::string), "RandomWithAreaCode");
+    method(Ccode);
     method(Generate);
     method(Generate_Invalid);
 } */
